@@ -2,4 +2,4 @@
 Mata Kuliah Kecerdasan Buatan (AI) 
 
 Materi: 
-[CNN](/CNN)
+- [CNN](/CNN)
